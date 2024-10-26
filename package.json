@@ -1,0 +1,12 @@
+{
+  "name": "learning_node",
+  "version": "1.0.0",
+  "description": "Here are some key features: 1. Event-Driven Architecture: Node.js uses an event-driven, non-blocking I/O model, which makes it efficient and suitable for handling multiple connections simultaneously. This is particularly useful for building scalable network applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek",
+  "license": "ISC"
+}
